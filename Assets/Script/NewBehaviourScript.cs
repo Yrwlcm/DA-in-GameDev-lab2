@@ -27,7 +27,7 @@ public class NewBehaviourScript : MonoBehaviour
 
 		if (dataSet["Mon_" + i.ToString()] <= 10 & statusStart == false & i != dataSet.Count)
 		{
-			StartCoroutine(PlaySelectAudioGood());
+			StartCoroutine(PlaySelectAudioBad());
 			Debug.Log(dataSet["Mon_" + i.ToString()]);
 		}
 
@@ -39,7 +39,7 @@ public class NewBehaviourScript : MonoBehaviour
 
 		if (dataSet["Mon_" + i.ToString()] >= 100 & statusStart == false & i != dataSet.Count)
 		{
-			StartCoroutine(PlaySelectAudioBad());
+			StartCoroutine(PlaySelectAudioGood());
 			Debug.Log(dataSet["Mon_" + i.ToString()]);
 		}
 	}
