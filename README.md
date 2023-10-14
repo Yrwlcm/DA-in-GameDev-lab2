@@ -78,7 +78,7 @@ while i <= len(mon):
         print(tempInf)
 ```
 - На основе полученных данных создать таблицу
-![image](https://github.com/Yrwlcm/DA-in-GameDev-lab2/assets/99079920/b6ca3a0b-03bb-4018-ae29-fb1c4b7e18a4)
+- ![image](https://github.com/Yrwlcm/DA-in-GameDev-lab2/assets/99079920/b6ca3a0b-03bb-4018-ae29-fb1c4b7e18a4)
 
 - Ссылка на таблицу: [https://docs.google.com/spreadsheets/d/19U0ApQEKWFRjuo-_uTfJE_fvKeSGlTWjF_Sjwmtxrfo/edit#gid=0](https://docs.google.com/spreadsheets/d/19U0ApQEKWFRjuo-_uTfJE_fvKeSGlTWjF_Sjwmtxrfo/edit?usp=sharing)
 
